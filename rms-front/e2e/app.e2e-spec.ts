@@ -1,6 +1,6 @@
 import { RmsFrontPage } from './app.po';
 
-describe('rms-front App', function() {
+describe('rms-front App', () => {
   let page: RmsFrontPage;
 
   beforeEach(() => {
